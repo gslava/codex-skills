@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cut Release"
+  short_description: "Prepare releases with explicit safety gates"
+  default_prompt: "Use $cut-release to prepare a minor release and show a preview before publishing."

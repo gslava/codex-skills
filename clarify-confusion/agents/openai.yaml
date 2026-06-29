@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clarify Confusion"
+  short_description: "Resolve expectation mismatches with evidence"
+  default_prompt: "Use $clarify-confusion to explain why this behavior differs from what I expected."

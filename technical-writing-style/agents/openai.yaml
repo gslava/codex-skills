@@ -1,0 +1,4 @@
+interface:
+  display_name: "Technical Writing Style"
+  short_description: "Write terse, precise engineering communication"
+  default_prompt: "Use $technical-writing-style to rewrite this engineering text concisely."

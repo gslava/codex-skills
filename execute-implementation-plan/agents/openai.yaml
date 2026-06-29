@@ -1,0 +1,4 @@
+interface:
+  display_name: "Execute Implementation Plan"
+  short_description: "Run plan tasks safely with verification gates"
+  default_prompt: "Use $execute-implementation-plan to implement this plan step by step."

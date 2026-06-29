@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Pull Request"
+  short_description: "Review PRs and diffs with code evidence"
+  default_prompt: "Use $review-pull-request to review PR 123 and draft findings."

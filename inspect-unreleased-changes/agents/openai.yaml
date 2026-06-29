@@ -1,0 +1,4 @@
+interface:
+  display_name: "Inspect Unreleased Changes"
+  short_description: "Summarize unreleased repository changes"
+  default_prompt: "Use $inspect-unreleased-changes to show what changed since the last tag."

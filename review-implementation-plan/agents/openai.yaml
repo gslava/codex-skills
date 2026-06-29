@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Implementation Plan"
+  short_description: "Find plan gaps before code is written"
+  default_prompt: "Use $review-implementation-plan to review this plan for correctness and over-engineering without editing it."

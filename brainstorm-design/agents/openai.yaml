@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brainstorm Design"
+  short_description: "Shape ideas into implementation-ready designs"
+  default_prompt: "Use $brainstorm-design to explore technical approaches before implementing this code change."

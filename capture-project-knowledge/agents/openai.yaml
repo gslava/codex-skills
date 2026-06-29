@@ -1,0 +1,4 @@
+interface:
+  display_name: "Capture Project Knowledge"
+  short_description: "Save reusable project insights safely"
+  default_prompt: "Use $capture-project-knowledge to save useful project conventions from this session."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dialectic Analysis"
+  short_description: "Stress-test claims from both sides"
+  default_prompt: "Use $dialectic-analysis to test whether this refactor is safe."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clarifying Questions"
+  short_description: "Check whether a request is clear enough before acting"
+  default_prompt: "Use $clarifying-questions when the request may need clarification before planning, editing, executing, publishing, or giving a final recommendation."

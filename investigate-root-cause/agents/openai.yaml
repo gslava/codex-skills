@@ -1,0 +1,4 @@
+interface:
+  display_name: "Investigate Root Cause"
+  short_description: "Debug failures with evidence before fixes"
+  default_prompt: "Use $investigate-root-cause to find why this test is failing before changing code."

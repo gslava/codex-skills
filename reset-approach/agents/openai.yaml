@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reset Approach"
+  short_description: "Recover from dead-end solution paths"
+  default_prompt: "Use $reset-approach because this implementation direction is not working."

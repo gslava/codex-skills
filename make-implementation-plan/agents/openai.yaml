@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Implementation Plan"
+  short_description: "Create rigorous implementation plans with tests"
+  default_prompt: "Use $make-implementation-plan to create a task-by-task plan for this change."
