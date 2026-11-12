@@ -13,6 +13,7 @@ Each skill lives in its own folder and includes:
 
 ## Skills
 
+- `helper` - architect partnership, approved changes, business checks, and documentation
 - `brainstorm-design` - design tradeoffs before implementation
 - `capture-project-knowledge` - save durable project conventions
 - `clarifying-questions` - resolve decision-critical ambiguity before acting

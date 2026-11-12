@@ -1,0 +1,6 @@
+interface:
+  display_name: "Helper"
+  short_description: "Architect guidance, approved changes, business checks"
+  default_prompt: "Use $helper to assess this change, recommend a solution for my approval, then implement and verify the approved behavior and update affected documentation."
+policy:
+  allow_implicit_invocation: true
